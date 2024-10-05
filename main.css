@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.zero{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 124;
+    padding: 0px 20px 0px 20px;
+}
+.one{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 76px;
+    margin-left: 83px;
+}
+.two{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 76px;
+    margin-left: 113px;
+}
+.three{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 76px;
+    margin-left: 143px;
+}
+.four{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 76px;
+    margin-left: 173px;
+}
+.five{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 76px;
+    margin-left: 203px;
+}
+.six{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 60px;
+}
+.seven{
+    width: 300px;
+    height: 280px;
+    background: rgb(255, 0, 0);
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.eight{
+    width: 300px;
+    height: 280px;
+    background: rgb(255, 0, 0);
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.nine{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.ten{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 124;
+    padding: 0px 20px 0px 20px;
+}
+.f{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 83px;
+}
+.fo{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 113px;
+}
+.foo{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 143px;
+}
+.foot{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 173px;
+}
+.footer{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 203px;
+}
